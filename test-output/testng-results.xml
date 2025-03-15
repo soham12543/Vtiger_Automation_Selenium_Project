@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Organization name Verified!!!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-15T09:06:43 IST" name="Suite" finished-at="2025-03-15T09:09:53 IST" duration-ms="189790">
+    <groups>
+    </groups>
+    <test started-at="2025-03-15T09:06:43 IST" name="Test" finished-at="2025-03-15T09:09:53 IST" duration-ms="189790">
+      <class name="TestScripts.CreateContactScript">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:08:28 IST" name="launchBrowser" finished-at="2025-03-15T09:08:32 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:08:32 IST" name="loginPage" finished-at="2025-03-15T09:08:39 IST" duration-ms="7754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="createContactWithDateandLastName()[pri:1, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:08:39 IST" name="createContactWithDateandLastName" finished-at="2025-03-15T09:09:16 IST" duration-ms="37187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithDateandLastName -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:09:16 IST" name="logOut" finished-at="2025-03-15T09:09:20 IST" duration-ms="3127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:09:20 IST" name="loginPage" finished-at="2025-03-15T09:09:25 IST" duration-ms="5823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="createContactWithLastName()[pri:2, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:09:25 IST" name="createContactWithLastName" finished-at="2025-03-15T09:09:50 IST" duration-ms="24243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithLastName -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:09:50 IST" name="logOut" finished-at="2025-03-15T09:09:53 IST" duration-ms="3145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.CreateContactScript@74f7d1d2]" started-at="2025-03-15T09:09:53 IST" name="closeBrowser" finished-at="2025-03-15T09:09:53 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.CreateContactScript -->
+      <class name="TestScripts.CreateOrganizationTestScript">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:06:43 IST" name="launchBrowser" finished-at="2025-03-15T09:06:48 IST" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:06:48 IST" name="loginPage" finished-at="2025-03-15T09:06:54 IST" duration-ms="6865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="createOrganizationMethod()[pri:1, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:06:54 IST" name="createOrganizationMethod" finished-at="2025-03-15T09:07:18 IST" duration-ms="23901" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Organization name Verified!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationMethod -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:07:18 IST" name="logOut" finished-at="2025-03-15T09:07:22 IST" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:07:22 IST" name="loginPage" finished-at="2025-03-15T09:07:27 IST" duration-ms="5804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="createOrganizationWithIndustry()[pri:2, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:07:27 IST" name="createOrganizationWithIndustry" finished-at="2025-03-15T09:07:51 IST" duration-ms="23712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustry -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:07:51 IST" name="logOut" finished-at="2025-03-15T09:07:54 IST" duration-ms="3019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:07:54 IST" name="loginPage" finished-at="2025-03-15T09:08:00 IST" duration-ms="5668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="createOrganizationWithIndustryAndPhone()[pri:3, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:08:00 IST" name="createOrganizationWithIndustryAndPhone" finished-at="2025-03-15T09:08:24 IST" duration-ms="24701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustryAndPhone -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:08:24 IST" name="logOut" finished-at="2025-03-15T09:08:28 IST" duration-ms="3304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.CreateOrganizationTestScript@7d61eccf]" started-at="2025-03-15T09:08:28 IST" name="closeBrowser" finished-at="2025-03-15T09:08:28 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.CreateOrganizationTestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
